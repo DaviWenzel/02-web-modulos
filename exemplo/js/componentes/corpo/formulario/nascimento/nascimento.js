@@ -1,5 +1,6 @@
 import { carregar } from "../../../carregar.js";
-
+// .. sobe pasta
+// . = diretorio atual
 function comportamentoDataNascimento(evento) {
   const input = evento.target;
 

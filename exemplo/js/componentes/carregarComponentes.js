@@ -3,7 +3,8 @@ import { componenteCorpo } from "./corpo/corpo.js";
 import { componenteRodape } from "./rodape/rodape.js";
 
 export async function carregarComponentes() {
-    await componenteCabecalho();
+    await componenteCabecalho(); 
     await componenteCorpo();
     await componenteRodape();
+    //await gera uma ordem, para não carregar na forma errada.
 }

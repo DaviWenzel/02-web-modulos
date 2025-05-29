@@ -9,3 +9,10 @@ Altere o exemplo apresentado, como especificado abaixo:
 3) Implemente as demais operações do CRUD: (i) ler, (ii) ler informando o ID do registro a ser recuperado, (iii) atualizar e (iv) excluir. Todas as operações devem ter efeito no banco de dados gerido pelo JSONServer no Replit.com.
 
 4) Melhorar a identidade visual, alterando os estilos CSS.
+
+
+CREAR CRUD
+C post (manda dado e retorna com ID se der certo, código 200)
+R get ()
+U update ()
+D delete ()
